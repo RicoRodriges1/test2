@@ -1,0 +1,15 @@
+.main-class {
+    border: 1px  solid white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+
+}
+
+
+
+
+html, body {
+    height: 100%;
+}

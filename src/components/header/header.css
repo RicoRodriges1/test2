@@ -1,0 +1,8 @@
+.carousel-inner {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.content {
+    flex: 1 0 auto;
+}

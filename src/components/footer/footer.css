@@ -1,0 +1,20 @@
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: rgb(199, 199, 199);
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    flex: 0 0 auto;
+}
+.footer a {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.logo img {
+    max-width: 50px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}

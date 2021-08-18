@@ -1,0 +1,21 @@
+#heading {
+    margin: 5%;
+}
+
+img {
+    border-radius: 3% 3% 0% 0%;
+    max-width:100%;
+    align-items:center;
+    justify-content: center;
+    float:inline-end;
+}
+
+.row {
+    margin:5%;
+    padding: 5%
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
